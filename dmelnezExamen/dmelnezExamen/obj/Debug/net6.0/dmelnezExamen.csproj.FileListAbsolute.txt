@@ -1,0 +1,14 @@
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\bin\Debug\net6.0\dmelnezExamen.exe
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\bin\Debug\net6.0\dmelnezExamen.deps.json
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\bin\Debug\net6.0\dmelnezExamen.runtimeconfig.json
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\bin\Debug\net6.0\dmelnezExamen.dll
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\bin\Debug\net6.0\dmelnezExamen.pdb
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\obj\Debug\net6.0\dmelnezExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\obj\Debug\net6.0\dmelnezExamen.AssemblyInfoInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\obj\Debug\net6.0\dmelnezExamen.AssemblyInfo.cs
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\obj\Debug\net6.0\dmelnezExamen.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\obj\Debug\net6.0\dmelnezExamen.dll
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\obj\Debug\net6.0\refint\dmelnezExamen.dll
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\obj\Debug\net6.0\dmelnezExamen.pdb
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\obj\Debug\net6.0\dmelnezExamen.genruntimeconfig.cache
+C:\Users\dmelnez\Desktop\Programacion\dmelnezExamen\dmelnezExamen\obj\Debug\net6.0\ref\dmelnezExamen.dll
